@@ -1,1 +1,1 @@
-# qa_guru_python_3_12_telegram
+# qa_guru_python_3_10

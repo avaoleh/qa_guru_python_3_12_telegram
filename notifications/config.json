@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "some project",
+    "environment": "some env",
+    "comment": "some comment",
+    "reportLink": "",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "5907133258:AAHs97Zt2U2_-HRTOk4l9gPdhAGBUduLuig",
+    "chat": "-1001865309742",
+    "replyTo": ""
+  }
+}
