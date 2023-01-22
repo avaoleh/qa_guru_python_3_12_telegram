@@ -1,10 +1,10 @@
 {
   "base": {
     "logo": "",
-    "project": "avaoleg_qa_guru_python_3_12_jenkins_telegram_notification",
+    "project": "qa_guru_python_3_12_jenkins_telegram_notification",
     "environment": "QA.GURU",
     "comment": "homework",
-    "reportLink": "",
+    "reportLink": "https://jenkins.autotests.cloud/job/avaoleg_qa_guru_python_3_12_jenkins_telegram_notofication/allure",
     "language": "en",
     "allureFolder": "allure-report/",
     "enableChart": true
