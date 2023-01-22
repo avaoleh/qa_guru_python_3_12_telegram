@@ -1,9 +1,9 @@
 {
   "base": {
     "logo": "",
-    "project": "some project",
-    "environment": "some env",
-    "comment": "some comment",
+    "project": "avaoleg_qa_guru_python_3_12_jenkins_telegram_notification",
+    "environment": "QA.GURU",
+    "comment": "homework",
     "reportLink": "",
     "language": "en",
     "allureFolder": "allure-report/",
